@@ -1,0 +1,55 @@
+1000000,Turkiye,Istanbul,Besiktas,1. Cadde,1,Yuva sicakliginda apartman,Cosy aparment,100.5,2,1,0,1,0,0,0,70,4.0,1,0,
+1000001,Almanya,Berlin,Kreuzberg,2. Cadde,3,Yuva sicakliginda apartman,Cosy flat,100.8,2,1,0,0,0,0,0,80,3.25,1,0,
+1000002,Fransa,Paris,5. Paris,3. Cadde,5,Yuva sicakliginda apartman,Beautiful view,101.1,2,1,0,1,0,0,0,70,2.61,1,0,
+1000003,Italya,Napoli,Berlusconi Mah.,4. Cadde,7,Yuva sicakliginda apartman,Concept flat,101.4,3,1,0,0,0,0,0,80,3.70,1,0,
+1000004,Arjantin,Buenos Aires,Maradona Mah.,5. Cadde,9,Yuva sicakliginda apartman,Blue Flat,100.11,3,1,0,0,0,0,0,80,4.40,1,1,
+1000005,Brezilya,Rio de Janerio,Ronaldo Mah.,6. Cadde,11,Yuva sicakliginda apartman,Red Flat,100.14,3,1,0,0,0,0,0,82,4.1,1,1,
+1000006,Yeni Zelanda,Wellington,2. Wellington,7. Cadde,13,Yuva sicakliginda apartman,Yellow Flat,101.7,4,1,0,0,0,0,0,84,4.1,1,1,
+1000007,Yunanistan,Atina,4. Atina,8. Cadde,15,Yuva sicakliginda apartman,Green Flat,101.10,4,1,0,1,0,0,0,86,3.26,1,1,
+1000008,Ispanya,Sevilla,6. Sevilla,9. Cadde,17,Yuva sicakliginda apartman,Dark Flat,100.17,3,1,0,1,0,0,0,88,2.62,1,1,
+1000009,Portekiz,Lisbon,Benfica,10. Cadde,19,Yuva sicakliginda apartman,Black Flat,100.20,2,1,0,1,0,0,0,90,3.71,1,1,
+1000010,Izlanda,Reykjavik,Sigurdarson Bolgesi,11. Cadde,21,Yuva sicakliginda apartman,White Flat,101.13,2,1,0,1,0,0,0,92,4.38,1,1,
+2000000,Cin,Shangai,Mao Bolgesi,12. Cadde,23,Yuva sicakliginda oda,Cosy room,101.16,1,1,0,0,0,0,0,10,4.1,0,1,
+2000001,Japonya,Kyoto,Koniciva Ilcesi,13. Cadde,25,Yuva sicakliginda oda,Red room,100.23,1,0,0,1,0,0,0,12,3.26,0,1,
+2000002,Guney Kore,Seoul,Seoul Merkez,14. Cadde,27,Yuva sicakliginda oda,Yellow room,100.26,1,1,0,0,0,0,0,10,2.62,1,1,
+2000003,Gronland,Nuuk,Nuuk Merkez,5. Cadde,29,Yuva sicakliginda oda,Mellow room,101.19,2,1,0,0,0,0,0,12,3.71,0,1,
+2000004,Isvicre,Zurih,Universite Mah.,6. Cadde,31,Yuva sicakliginda oda,Beautiful room,101.22,2,0,0,0,0,0,0,14,4.40,1,0,
+2000005,Ingiltere,Newcastle,Charles Mah.,7. Cadde,33,Yuva sicakliginda oda,Nice room,100.29,1,1,0,0,0,0,0,16,4.1,1,0,
+2000006,Iskocya,Glasgow,Katedral Mah.,8. Cadde,35,Yuva sicakliginda oda,Green Room,100.32,2,1,0,1,0,0,0,25,4.1,0,0,
+2000007,Belcika,Bruksel,Lahana Mah.,9. Cadde,37,Yuva sicakliginda oda,Room with furnace,101.25,2,1,0,1,0,0,0,10,3.27,0,1,
+2000008,Burkina Faso,Vagadugu,Vagadugu Merkez,10. Cadde,39,Yuva sicakliginda oda,Cosy room,101.28,1,0,0,1,0,0,0,15,2.63,1,0,
+2000009,Rusya,Moskova,Moskova Merkez,11. Cadde,41,Yuva sicakliginda oda,Red room,100.35,1,1,1,1,0,0,0,12,3.72,0,0,
+2000010,Tayland,Bangkok, Bangkok Merkez,12. Cadde,43,Yuva sicakliginda oda,Yellow room,100.38,2,1,1,0,0,0,0,15,4.39,0,1,
+3000000,Tayvan,Taipei, Taipei Merkez,13. Cadde,45,Yuva sicakliginda müstakil ev,Beautiful Villa ,101.31,5,1,1,1,0,0,0,200,4.1,1,3,
+3000001,Turkiye,Ankara,Cankaya,14. Cadde,47,Yuva sicakliginda müstakil ev,Nice Villa,101.34,5,1,1,0,0,0,0,300,3.26,2,3,
+3000002,Almanya,Stuttgart,Stadyum Mah.,5. Cadde,49,Yuva sicakliginda müstakil ev,Great Villa,100.41,4,1,0,0,0,0,0,350,2.62,2,4,
+3000003,Fransa,Bordeaux,Baglar Mah.,1. Cadde,51,Yuva sicakliginda müstakil ev,Vineyard House,100.44,6,1,1,0,1,1,0,320,3.71,3,5,
+3000004,Italya,Floransa,Medici Mah.,2. Cadde,53,Yuva sicakliginda müstakil ev,Villa de Medici,101.37,5,1,1,0,1,1,0,200,4.40,2,4,
+3000005,Arjantin,Cordoba,Di Maria Mah.,3. Cadde,55,Yuva sicakliginda müstakil ev,Villa near Stadium,101.40,6,1,0,1,0,0,0,300,4.1,1,3,
+3000006,Brezilya,Brassilia,Thiago Silva Mah.,4. Cadde,57,Yuva sicakliginda müstakil ev,Gray Villa,100.47,6,1,1,1,0,0,0,350,4.1,2,4,
+3000007,Avustralya,Sidney,4. Sidney,5. Cadde,59,Yuva sicakliginda müstakil ev,Stone Villa,100.50,7,1,1,1,0,0,1,320,3.27,2,4,
+3000008,Yunanistan,Selanik,Ataturk Mah.,6. Cadde,61,Yuva sicakliginda müstakil ev,Brick Villa,101.43,8,1,1,1,0,0,1,200,2.63,2,5,
+3000009,Ispanya,Barselona,Messi Mah.,1. Cadde,63,Yuva sicakliginda müstakil ev,Villa for you,101.46,6,1,1,0,0,0,1,300,4.1,4,5,
+3000010,Portekiz,Porto,Falcao Mah.,2. Cadde,65,Yuva sicakliginda müstakil ev,Aston Villa,100.53,5,1,1,1,0,0,1,350,3.26,5,6,
+4000000,Izlanda,Reykjavik,Viking Mah.,3. Cadde,67,Yuva sicakliginda hotel,Anneman Hotel,100.56,2,1,1,0,0,0,1,15,2.62,10,1,4
+4000001,Cin,Pekin,Merkez,4. Cadde,69,Yuva sicakliginda hotel,Babaman Hotel,101.49,2,1,1,0,0,0,1,20,3.71,23,2,4
+4000002,Japonya,Tokyo,Merkez,5. Cadde,71,Yuva sicakliginda hotel,Teyzeman Hotel,101.52,2,1,1,0,0,0,1,25,4.40,45,3,4
+4000003,Guney Kore,Busan,Merkez,6. Cadde,73,Yuva sicakliginda hotel,Amcaman Hotel,100.59,2,1,1,0,0,0,1,20,4.1,28,2,4
+4000004,Gronland,Nuuk,Merkez,7. Cadde,75,Yuva sicakliginda hotel,Enisteman Hotel,100.62,2,1,1,1,0,0,1,15,4.1,32,5,4
+4000005,Isvicre,Lozan,Merkez,8. Cadde,77,Yuva sicakliginda hotel,Dayiman Hotel,101.55,2,1,1,1,0,0,1,25,3.27,56,4,5
+4000006,Ingiltere,Londra,Merkez,9. Cadde,79,Yuva sicakliginda hotel,Yengeman hotel,101.58,2,1,1,1,1,1,1,20,2.63,58,3,5
+4000007,Iskocya,Edinburgh,Merkez,10. Cadde,81,Yuva sicakliginda hotel,Neneman Hotel,100.65,2,1,1,1,1,1,1,25,3.72,46,5,5
+4000008,Belcika,Leuven,Merkez,1. Cadde,83,Yuva sicakliginda hotel,Dedeman Hotel,100.68,2,1,1,0,1,1,1,15,4.36,35,8,5
+4000009,Burkina Faso,Vagadugu,Merkez,2. Cadde,85,Yuva sicakliginda hotel,Patates Hotel,101.61,2,1,1,1,1,1,1,20,4.73,29,5,5
+4000010,Rusya,St. Petersburg,Merkez,3. Cadde,87,Yuva sicakliginda hotel,Domates Hotel,101.64,2,1,1,0,1,1,1,25,3.27,48,9,6
+4000011,Tayland,Bangkok,Merkez,4. Cadde,89,Yuva sicakliginda hotel,Patlıcan Hotel,100.71,2,1,1,0,1,1,1,20,2.63,10,1,6
+4000012,Tayvan,Taipei,Merkez,5. Cadde,91,Yuva sicakliginda hotel,Marul Hotel,100.74,2,1,1,0,1,1,1,15,3.72,23,2,6
+4000013,Turkiye,Izmir,Merkez,6. Cadde,93,Yuva sicakliginda hotel,Teyzeman Hotel,101.67,2,1,1,0,1,1,1,25,4.40,45,3,5
+4000014,Almanya,Frankfurt,Merkez,7. Cadde,95,Yuva sicakliginda hotel,Amcaman Hotel,101.70,2,1,1,1,1,1,1,20,4.1,28,2,5
+4000015,Fransa,Marsilya,Merkez,8. Cadde,97,Yuva sicakliginda hotel,Enisteman Hotel,100.77,2,1,1,1,1,1,1,25,4.1,32,5,5
+4000016,Italya,Sicilya,Merkez,9. Cadde,99,Yuva sicakliginda hotel,Dayiman Hotel,100.80,2,1,1,1,1,1,1,15,3.28,56,4,6
+4000017,Arjantin,Buenos Aires,Merkez,10. Cadde,101,Yuva sicakliginda hotel,Yengeman hotel,101.73,2,1,1,1,1,1,1,20,2.64,58,3,5
+4000018,Brezilya,Sao Paulo,Merkez,11. Cadde,103,Yuva sicakliginda hotel,Neneman Hotel,101.76,2,1,1,0,1,1,1,25,3.73,46,5,5
+4000019,Yeni Zelanda,Wellington,Merkez,12. Cadde,105,Yuva sicakliginda hotel,Dedeman Hotel,100.83,2,1,0,1,1,1,1,20,4.37,35,8,5
+4000020,Yunanistan,Rodos,Merkez,13. Cadde,107,Yuva sicakliginda hotel,Patates Hotel,100.86,2,1,0,0,1,1,1,15,4.75,29,5,4
+4000021,Ispanya,Madrid,Merkez,14. Cadde,109,Yuva sicakliginda hotel,Domates Hotel,101.79,2,1,0,0,1,1,1,25,3.27,48,9,4
