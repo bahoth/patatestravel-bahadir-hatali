@@ -1,6 +1,6 @@
-
-#ifndef ROOM_H
-#define ROOM_H
+#pragma once
+//#ifndef ROOM_H
+//#define ROOM_H
 
 
 // some declarations in
@@ -24,4 +24,4 @@ public:
     void del_rentalRoomFacilities(std::string facKey);
     void show_rentalRoomFacilities();
 };
-#endif
+//#endif

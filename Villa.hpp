@@ -1,6 +1,6 @@
-
-#ifndef VILLA_H
-#define VILLA_H
+#pragma once
+//#ifndef VILLA_H
+//#define VILLA_H
 // some declarations in
 // the header file.
 #include "House.hpp"
@@ -21,4 +21,4 @@ public:
     int getBaths();
     bool getMiniTheater();
 };
-#endif
+//#endif

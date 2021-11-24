@@ -1,5 +1,6 @@
-#ifndef APARTMENT_H
-#define APARTMENT_H
+#pragma once
+//#ifndef APARTMENT_H
+//#define APARTMENT_H
 // some declarations in
 // the header file.
 #include <map>
@@ -24,4 +25,4 @@ public:
     void showFloor();
  
 };
-#endif
+//#endif

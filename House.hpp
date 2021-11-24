@@ -1,5 +1,6 @@
-#ifndef RENTAL_H_
-#define RENTAL_H_
+#pragma once
+//#ifndef RENTAL_H_
+//#define RENTAL_H_
 
 
 #include "Rental.hpp"
@@ -13,4 +14,4 @@ public:
 
     void setDist(int dist);
 };
-#endif
+//#endif

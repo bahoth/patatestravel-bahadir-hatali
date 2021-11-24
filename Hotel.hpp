@@ -1,5 +1,6 @@
-#ifndef HOTEL_H
-#define HOTEL_H
+#pragma once
+//#ifndef HOTEL_H
+//#define HOTEL_H
 // some declarations in
 // the header file.
 
@@ -33,4 +34,4 @@ public:
     void displayLuxPrice();
     
 };
-#endif
+//#endif

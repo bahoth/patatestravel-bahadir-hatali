@@ -1,5 +1,7 @@
-#ifndef RENTAL_H_
-#define RENTAL_H_
+
+#pragma once
+//#ifndef RENTAL_H_
+//#define RENTAL_H_
 #include <iostream>
 #include <string>
 #include <vector>
@@ -54,7 +56,7 @@ public:
     void showCapacity();
     void showFacilities();
 
-
+//#endif
 
 
 
@@ -64,4 +66,3 @@ public:
 
 
 };
-#endif

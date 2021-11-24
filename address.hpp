@@ -1,5 +1,5 @@
-#ifndef ADDRESS_H_
-#define ADDRESS_H_
+//#ifndef ADDRESS_H_
+//#define ADDRESS_H_
 #include <iostream>
 #include <string>
 
@@ -28,4 +28,4 @@ public:
 
     //Display fonksiyonu doğrudan rental içinde, adresi başka bir yerde göstermemiz gerekmediği için buraya çekmedim tekrar. 
 };
-#endif
+//#endif
